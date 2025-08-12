@@ -14,13 +14,13 @@
 
 The data used is a combination of several secondary Indonesian-language datasets:
 
-- Dataset from **Candra & Rozana (2020)**, Instagram comments manually labeled by Indonesian language experts.
-- Dataset from **Luqyana et al. (2018)**, Instagram comments manually labeled and reviewed by linguists.
-- Sentiment analysis dataset by **Purwarianti & Crisdayanti (2019)**.
 - Cyberbullying dataset from **Kaggle** by Cita Tiara Hanni (2021).
+  https://www.kaggle.com/datasets/cttrhnn/cyberbullying-bahasa-indonesia
 - Cyberbullying dataset from **HuggingFace** by aditdwi123 (2024), originally in JSON format and converted.
+  https://huggingface.co/datasets/aditdwi123/cyber-bullying-dataset/tree/main
 - Instagram comment dataset from **GitHub** by rizalespe (2019).
-
+  https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia/blob/master/dataset_komentar_instagram_cyberbullying.csv
+  
 All data were merged and adapted for fine-tuning the model.
 
 ## Model Fine-tuning
